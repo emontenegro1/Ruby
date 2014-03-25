@@ -5,3 +5,4 @@ middleName = gets.chomp
 puts 'what is your last name?'
 lastName = gets.chomp 
 puts 'Hello ' + firstName + ' ' + middleName + ' ' + lastName  
+puts 'bye'
